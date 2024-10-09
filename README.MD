@@ -62,16 +62,4 @@ This Streamlit application allows users to analyze CSV data using the power of G
 
 For a full list of dependencies, see `requirements.txt`.
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- This project uses the OpenAI GPT-4 model for natural language processing.
-- Built with Streamlit, Pandas, and Matplotlib.
-# new_chat_csv
